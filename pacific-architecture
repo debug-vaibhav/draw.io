@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T04:48:18.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Yk37GRMCsoCrKrD2AlOR" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T05:01:22.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ERxOjGOsV-KOr2fi0p7U" version="14.8.6" type="github" pages="2">
   <diagram id="XlMruzRMgNnG5HqgZo-R" name="events">
     <mxGraphModel dx="1422" dy="3039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,6 +85,14 @@
         <mxCell id="FC0N9KzPqmRuyQJwEQwE-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;job:scheduled&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="200" y="-500" width="150" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="626NbSKasmULRXprv9DU" name="architecture">
+    <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="NRruL62FbuDgsXlAzHWD-0" />
+        <mxCell id="NRruL62FbuDgsXlAzHWD-1" parent="NRruL62FbuDgsXlAzHWD-0" />
       </root>
     </mxGraphModel>
   </diagram>
